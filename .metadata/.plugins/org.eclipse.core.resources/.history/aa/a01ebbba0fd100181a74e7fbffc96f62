@@ -1,0 +1,5 @@
+package com.capgemini.EurekaClientApplication;
+
+public class ServiceInstanceRestcontroller {
+
+}

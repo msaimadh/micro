@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\msaimadh\Downloads\MicroServices-master\MicroServices-master\helloworld"/>
+			<item value="C:\Users\msaimadh\Downloads\MicroServices-master\MicroServices-master\configuration-service"/>
+			<item value="C:\Users\msaimadh\Downloads\configurationclient"/>
+			<item value="C:\Users\msaimadh\Downloads\helloworld"/>
+			<item value="C:\Users\msaimadh\Downloads\website"/>
+			<item value="C:\Users\msaimadh\Downloads\shoppingApp-master"/>
+			<item value="C:\Users\msaimadh\Downloads\ecommerce (1)"/>
+			<item value="C:\Users\msaimadh\Downloads\order (1)"/>
+			<item value="C:\Users\msaimadh\Downloads\Product-master"/>
+			<item value="C:\Users\msaimadh\Downloads\product (1)"/>
+			<item value="C:\Users\msaimadh\Downloads\customer"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

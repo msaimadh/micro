@@ -1,0 +1,5 @@
+spring.application.name=Helloo
+#end point of config server
+#spring.cloud.config.uri=http://localhost:8888 
+
+

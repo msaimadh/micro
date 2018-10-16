@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539076528209_0" label="Java Main Sources" name="main">
+<item elementID="=customer/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=customer/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539076528228_1" label="Java Test Sources" name="test">
+<item elementID="=customer/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539078026282_2" label="customer" name="customer"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539090114253_4" label="product" name="product"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539090254078_5" label="productapp" name="productapp"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539091112530_6" label="order" name="order"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539160478846_7" label="ecommerce" name="ecommerce"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539182698369_8" label="onlineshopping" name="onlineshopping">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ecommerce" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539256417915_9" label="website" name="website">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/website" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539327754458_10" label="helloworld" name="helloworld">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/helloworld" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539334692657_11" label="configurationclient" name="configurationclient"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539348226298_12" label="configuration-service" name="configuration-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuration-server" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539593572640_13" label="EurekaServiceApplication" name="EurekaServiceApplication">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EurekaServerApplication" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539594062352_14" label="EurekaClientApplication" name="EurekaClientApplication">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/EurekaClientApplication" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539080744432_3" label="Window Working Set" name="Aggregate for window 1539080744432"/>
+</workingSetManager>

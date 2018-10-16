@@ -1,0 +1,7 @@
+spring.application.name=Helloo
+eureka.client.serviceurl.defaultZone=http://localhost:8761/eureka
+server.port=8989
+
+
+
+#spring.cloud.config.uri=http://localhost:8761 

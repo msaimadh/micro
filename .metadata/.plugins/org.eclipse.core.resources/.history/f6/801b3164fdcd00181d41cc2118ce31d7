@@ -1,0 +1,5 @@
+package com.capgemini.website.entity;
+
+public class Item {
+
+}

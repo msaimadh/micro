@@ -1,0 +1,14 @@
+package com.capgemini.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.client.RestTemplate;
+
+import com.netflix.discovery.EurekaClient;
+
+public class ServiceInstanceRestcontroller {
+	
+	@Autowired
+	private EurekaClient eurekaClient;
+	private static final RestTemplate REST_TEMPLATE=new RestTemplate();
+
+}

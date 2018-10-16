@@ -1,0 +1,49 @@
+package com.capgemini.website.entity;
+
+public class Item {
+	
+	private int itemId;
+	private int itemQuantity;
+	private int productId;
+	private double Price;
+	public Item() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public Item(int itemId, int itemQuantity, int productId, double price) {
+		super();
+		this.itemId = itemId;
+		this.itemQuantity = itemQuantity;
+		this.productId = productId;
+		Price = price;
+	}
+	public int getItemId() {
+		return itemId;
+	}
+	public void setItemId(int itemId) {
+		this.itemId = itemId;
+	}
+	public int getItemQuantity() {
+		return itemQuantity;
+	}
+	public void setItemQuantity(int itemQuantity) {
+		this.itemQuantity = itemQuantity;
+	}
+	public int getProductId() {
+		return productId;
+	}
+	public void setProductId(int productId) {
+		this.productId = productId;
+	}
+	public double getPrice() {
+		return Price;
+	}
+	public void setPrice(double price) {
+		Price = price;
+	}
+	
+	
+	
+	
+
+}

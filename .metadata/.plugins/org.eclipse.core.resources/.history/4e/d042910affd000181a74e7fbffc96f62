@@ -1,0 +1,7 @@
+spring.application.name=HelloWorld
+
+#server.port=8282
+#end point of config server
+#spring.cloud.config.uri=http://localhost:8888 
+
+

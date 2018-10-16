@@ -1,0 +1,7 @@
+spring.application.name=Helloo
+
+server.port=8989
+
+
+
+#spring.cloud.config.uri=http://localhost:8761 

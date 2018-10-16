@@ -1,0 +1,5 @@
+
+server.port=8888
+spring.application.name=Properties
+spring.cloud.config.server.git.uri=https://github.com/msaimadh/Properties
+      
